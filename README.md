@@ -1,8 +1,8 @@
-## Hi there 👋
-
 <!--
 **abadJessica/abadJessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![My personal banner](banner.png)
 
 #### 📫 How to reach me:
   
